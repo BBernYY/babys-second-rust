@@ -1,7 +1,4 @@
-# name
-short desc
+# Baby's second rust
+i tried rusting (i rusted)
 ## how to use
-info
-## tips
-* tip
-* tip
+just run it idk
